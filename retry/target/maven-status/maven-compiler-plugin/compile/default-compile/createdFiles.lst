@@ -1,0 +1,5 @@
+bug/retry/demo/service/CallingClient.class
+bug/retry/demo/DemoApplication.class
+bug/retry/demo/service/CallingService.class
+bug/retry/demo/config/AppConfig.class
+bug/retry/demo/controller/TriggerController.class
